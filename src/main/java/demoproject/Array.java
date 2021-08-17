@@ -11,6 +11,7 @@ public class Array {
 		sum+=arr[i];
 		}
 		System.out.println("displaysum"+sum);
+		System.out.println("Array length"+arr.length);
 
 	}
 
